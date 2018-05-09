@@ -1,0 +1,13 @@
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\bin\Debug\VisorCotizaciones.exe.config
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\bin\Debug\VisorCotizaciones.exe
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\bin\Debug\VisorCotizaciones.pdb
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\obj\Debug\VisorCotizaciones.csprojResolveAssemblyReference.cache
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\obj\Debug\VisorCotizaciones.Form1.resources
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\obj\Debug\VisorCotizaciones.Properties.Resources.resources
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\obj\Debug\VisorCotizaciones.csproj.GenerateResource.Cache
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\obj\Debug\VisorCotizaciones.exe
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\obj\Debug\VisorCotizaciones.pdb
+c:\users\programadorit\documents\visual studio 2013\Projects\VisorCotizaciones\VisorCotizaciones\obj\Debug\VisorCotizaciones.Form2.resources
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\RepPru3\PruebaRepositorio\VisorCotizaciones\bin\Debug\VisorCotizaciones.exe.config
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\RepPru3\PruebaRepositorio\VisorCotizaciones\obj\Debug\VisorCotizaciones.exe
+C:\Users\programadorit\Documents\Visual Studio 2013\Projects\RepPru3\PruebaRepositorio\VisorCotizaciones\obj\Debug\VisorCotizaciones.pdb
